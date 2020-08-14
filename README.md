@@ -2,4 +2,4 @@
 
 ### Project
 
-This project is a Todos/Goals app.
+A Todo application using react-redux with real workflow/folder structure.
